@@ -3,4 +3,4 @@
     "loglevel": "warning"
   },
   "inbound": {
-    "protocol": "vmess"
+    "protocol": "vmess",
